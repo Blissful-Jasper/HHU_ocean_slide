@@ -1,8 +1,11 @@
 ## slide 开题报告汇报模板
 
 This template mostly comes from Xuezhen Wang. 
+
 And his Page is here:
+
 - https://www.overleaf.com/latex/templates/cityu-of-hong-kong-beamer/kygnjxtcngtg
+  
 This slice is modified by Xianpu Ji.
 
 ## 简单介绍
