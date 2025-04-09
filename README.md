@@ -14,3 +14,4 @@
 
 [📄 点击查看 PDF 文档](docs/my_slide_temp.pdf)
 
+![封面](https://github.com/user-attachments/assets/1e04da94-8c1d-44ca-afba-1ef1dde0d087)
