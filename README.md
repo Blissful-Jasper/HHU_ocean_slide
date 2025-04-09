@@ -12,4 +12,5 @@
 
 这里进行了魔改，下面是主要得显示效果
 
-<embed src="my_slide_tem.pdf" width="600" height="500" type="application/pdf">
+[📄 点击查看 PDF 文档](docs/my_slide_temp.pdf)
+
